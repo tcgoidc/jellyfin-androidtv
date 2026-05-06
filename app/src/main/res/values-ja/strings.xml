@@ -606,4 +606,5 @@
     <string name="video_player_internal">内蔵ビデオプレーヤー</string>
     <string name="video_player_external">外部アプリ</string>
     <string name="playback_video_player_external_empty">デバイスに、ジェリーフィンの動画を開くことができるビデオプレーヤーアプリがインストールされていません。</string>
+    <string name="playback_buffer_auto">自動</string>
 </resources>
