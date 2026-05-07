@@ -616,4 +616,7 @@
     <string name="backdrop_behavior_without_blur">ぼかし効果のない背景</string>
     <string name="codec_level_warning">お使いのデバイスが選択したレベルに対応していない場合、自動設定から変更すると再生に問題が生じる可能性があります。</string>
     <string name="preference_codecs">メディアコーデック</string>
+    <string name="preference_codecs_summary">デバイスが提供するコーデック機能を上書きする</string>
+    <string name="codec_level_manual">手動設定</string>
+    <string name="auto">自動</string>
 </resources>
